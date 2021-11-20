@@ -4,7 +4,7 @@
 
 set -e
 
-source ../lib/utils.sh
+source /tmp/buildpacks/custom/lib/utils.sh
 
 BUILD_DIR=$1
 CACHE_DIR=$2
